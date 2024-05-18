@@ -1,12 +1,118 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <style>
+        #girl {
+            position: fixed;
+            z-index: 0
+        }
+        .chord {
+            font-size: 20px;
+        }
+        .brochure {
+            display: flex;
+            flex-flow: row nowrap;
+        }
+        .song_pic {
+            height: 400px;
+            background-color: green;
+        }
+        .song_title {
+            font-size: 40px;
+            transform: rotate(-3deg)
+        }
+    </style>
 <title>sweetums of the mind!</title>
+<meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta property="og:title" content="sweetumsss of the bodyyy" />
 <meta property="og:image" content="Untitled.png" />
 </head>
 <body>
 
-<img src="Untitled.png" alt="Girl in a jacket" width="600">
+<img src="Untitled.png" alt="Girl in a jacket" width="600" id="girl">
+
+<!-- 
+
+
+e|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+    
+    tools toggle
+        font size bar
+
+-->
+
+<!-- template -->
+
+<div class="song">
+    <div class="song_title">the ank pts. 1-n</div>
+
+    <div class="brochure">
+<pre class="lyrics">
+
+    [Fm/A]      [E]
+    ank i love you
+
+    [Fm/A]      [E]
+    and i love you
+
+                [Fm/A]      [E]
+    and i don't know what to do
+
+                [Fm/A]      [E]
+    with all this love i got for you 
+
+                [G#m/A]      [Fm/A]
+    but i'm gonna see you soon
+
+                [G#m/A]      [Fm/A]
+    ank i'm gonna see you soon
+
+        [Fm/A]  [E]
+    and hear about
+
+                           [E]
+    every single thing you do
+</pre>
+<img class="song_pic" src="https://cdn.mos.cms.futurecdn.net/MjguwowGv4CKCkTcK832sZ-1200-80.jpg">
+
+</div>
+
+
+<pre class="guitar_tabs">
+   Fm/A  E    G#m/A  
+e|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|--2-2-1-1----4-4--2-2------------------------------------------|
+D|--4-4-2-2----6-6--4-4------------------------------------------|
+A|--0-0-0-0----0-0--0-0------------------------------------------|
+E|---------------------------------------------------------------|
+
+</pre>
+<pre class="bass_tabs">
+
+    
+</pre>
+</div>
+
 </body>
+<script>
+window.onload = function() {
+    openRegex = /\[/gi
+    closeRegex = /]/gi
+    lyrics = document.querySelectorAll(".lyrics")
+    for (let song of lyrics) {
+        text = song.innerHTML
+        //.filter((string) => string.includes("@")).map((chord) => chord.substring(1))
+        text = text.replaceAll(openRegex, "<span class='chord'>")
+        text = text.replaceAll(closeRegex, "</span>")
+        song.innerHTML = text
+    }
+}
+</script>
 </html>
