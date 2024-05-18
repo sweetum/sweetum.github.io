@@ -32,15 +32,13 @@
 
 <img src="Untitled.png" alt="Girl in a jacket" width="600" id="girl">
 
+
+
 <!-- 
 
+    rotate title randomly
+    automate markup lang
 
-e|---------------------------------------------------------------|
-B|---------------------------------------------------------------|
-G|---------------------------------------------------------------|
-D|---------------------------------------------------------------|
-A|---------------------------------------------------------------|
-E|---------------------------------------------------------------|
     
     tools toggle
         font size bar
@@ -49,7 +47,7 @@ E|---------------------------------------------------------------|
 
 <!-- template -->
 
-<div class="song">
+<div class="song" id="ank">
     <div class="song_title">the ank pts. 1-n</div>
 
     <div class="brochure">
@@ -100,19 +98,126 @@ E|---------------------------------------------------------------|
 </pre>
 </div>
 
+<div class="song" id="hibeems">
+<div class="song_title">hi beems!</div>
+
+<div class="brochure">
+<pre class="lyrics">
+
+    intro:
+    [B] [A] x8
+
+    i got lost 
+    but you should. . . stick around
+    ‘cause they’re doing a new big dig all around downtown
+
+    he went soft
+    but it isn’t his fault
+    he promised this had never happened before      (oh god. . . i’m sorry) 
+    
+    9 fell in place
+    no sex excess success	
+    in a little green space we threw up on and called our home 
+    a plaid skirt smothered your eyelids, and you came
+    an arm’s length from heaven
+
+    (but) when the night time comes and it’s you or the others
+    we’re speaking like we’re friends but mother don’t bother
+    watch a car spinning out, shouting cool for the summer
+    as we take little bites of our collegiate lovers
+    aaaand i’m shaking my hips as i watch the years go by    (21 22 23!)
+    she’s counting her tips as the boys race to say hiiiii      (kill the boy. kill the boy in the green tie.)
+
+
+    hand josh the map
+    he loves giving directions
+    said right, went left
+    jersey slide, two frets
+    i said, “where are we going? where are you taking us?” 
+    he didn’t answer — you said,
+    “it’s a place full of lover lovers, they fuck for a cause, 
+    and they told me that we should join them, do you think so too?” 
+
+    at the same spots, we’re all sixteen, but everyone’s thirty now
+    it makes sense, it’s what our parents did before us.
+    if you find it too hard to forgive her, lend it time
+    in a few short years, we’ll all be gone. 
+</pre>
+<img class="song_pic" src="https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F647dc561-ac65-48d3-825f-a43cfe625d56_3840x2160.jpeg">
+
+</div>
+
+
+<pre class="guitar_tabs">
+    d d u  d   d u  d u d u  u   d d u  d   d u  d u d u  u
+    e|-x----------------------------x--------------------------|
+    B|-9-9-9--7---7-7--9-9-9-7--9---7-7-7--5---5-5--7-7-7-5--7-|
+    G|-8-8-8--8---8-8--8-8-8-8--8---6-6-6--6---6-6--6-6-6-6--6-|
+    D|-9-9-9--9---9-9--9-9-9-9--9---7-7-7--7---7-7--7-7-7-7--7-| 
+    A|-x----------------------------x--------------------------|
+    E|-7-7-7--7---7-7--7-7-77---7---5-5-5--5---5-5--5-5-5-5--5-|
+</pre>
+<pre class="bass_tabs">
+    
+</pre>
+</div>
+
+
+
 </body>
 <script>
 window.onload = function() {
-    openRegex = /\[/gi
-    closeRegex = /]/gi
+    chordOpenRegex = /\[/gi
+    chordCloseRegex = /]/gi
+    shoutOpenRegex = /\(/gi
+    shoutCloseRegex = /\)/gi
+
     lyrics = document.querySelectorAll(".lyrics")
     for (let song of lyrics) {
         text = song.innerHTML
         //.filter((string) => string.includes("@")).map((chord) => chord.substring(1))
-        text = text.replaceAll(openRegex, "<span class='chord'>")
-        text = text.replaceAll(closeRegex, "</span>")
+        text = text.replaceAll(chordOpenRegex, "<span class='chord'>")
+        text = text.replaceAll(chordCloseRegex, "</span>")
+        text = text.replaceAll(shoutOpenRegex, "<i>")
+        text = text.replaceAll(shoutCloseRegex, "</i>")
         song.innerHTML = text
     }
 }
 </script>
 </html>
+
+
+<!--
+
+    template
+
+<div class="song">
+<div class="song_title"></div>
+
+<div class="brochure">
+<pre class="lyrics">
+
+</pre>
+<img class="song_pic" src="">
+
+</div>
+
+
+<pre class="guitar_tabs">
+e|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+</pre>
+<pre class="bass_tabs">
+e|---------------------------------------------------------------|
+B|---------------------------------------------------------------|
+G|---------------------------------------------------------------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+</pre>
+</div>
+-->
