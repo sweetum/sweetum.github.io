@@ -30,6 +30,18 @@
             color: orange;
             text-decoration: underline;
         }
+        .flics {
+            display: flex;
+            flex-flow: column;
+            justify-content: flex-start;
+        }
+        .lyrics {
+            font-size: 13px;
+        }
+        .song_pic {
+            height: auto;
+            width: auto;
+        }
     </style>
 <title>sweetums of the mind!</title>
 <meta charset="UTF-8">
@@ -62,30 +74,48 @@
         <pre class="lyrics">
 
             [Fm/A]      [E]
-            ank i love you
+            i wanna know
 
             [Fm/A]      [E]
-            and i love you
+            if something is beautiful
 
-                        [Fm/A]      [E]
-            and i don't know what to do
+            [Fm/A]      [E]
+            just like a girl
 
-                        [Fm/A]      [E]
-            with all this love i got for you 
+            [Fm/A]      [E]
+            that all the trains are waiting for
 
-                        [G#m/A]      [Fm/A]
-            but i'm gonna see you soon
+                    [G#m/A]      [Fm/A]
+            is she in a rush?
 
-                        [G#m/A]      [Fm/A]
-            ank i'm gonna see you soon
+                    [G#m/A]      [Fm/A]
+            can she make me blush?
 
                 [Fm/A]  [E]
-            and hear about
+            and does she want to smush?
 
-                                [E]
-            every single thing you do
+                            [E]
+            fuck!! i meant switch!! (noo!! that's so embarassing.)
+
+            ++
+
+            [B] [A]
+            Three cheers for the body!
+
+            [B] [A]
+            (no love for the mind..)
+
+            [B] [A]
+            Two drinks for the lovers!
+
+            [B] [A]
+            First session went fine (cut off by sax)
+            
         </pre>
-        <img class="song_pic" src="https://cdn.mos.cms.futurecdn.net/MjguwowGv4CKCkTcK832sZ-1200-80.jpg">
+        <div class="flics">
+            <img class="song_pic" src="https://cdn.mos.cms.futurecdn.net/MjguwowGv4CKCkTcK832sZ-1200-80.jpg">
+            <img class="song_pic" src="https://cdn11.bigcommerce.com/s-ujq6o/images/stencil/1280x1280/products/1127/2712/pnso_ankylosaurus__16305.1588364108.jpg?c=2">
+        </div>
     </div>
     <pre class="tabs">
     Fm/A  E    G#m/A  
@@ -206,7 +236,11 @@
 
         ~
         </pre>
-        <img class="song_pic" src="https://substackcdn.com/image/fetch/w_720,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F647dc561-ac65-48d3-825f-a43cfe625d56_3840x2160.jpeg">
+        <div class="flics">
+            <img class="song_pic" src="https://www.newjerseyrestareas.com/wp-content/uploads/2021/01/nj-new-jersey-turnpike-vince-lombardi-service-plaza-southbound-mile-marker-116-.jpg"/>
+            <img class="song_pic" src="https://substackcdn.com/image/fetch/w_474,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cf22a84-5f42-4fb9-9eeb-2dfda175fe36_769x1024.jpeg">
+            <img class="song_pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5FLwOQ2mdE30uXJxvBQ9m8eHshxEY-yYevDmR6tt8Q&s"/>
+        </div>
     </div>
     <pre class="tabs">
         chorus riff 
@@ -351,7 +385,7 @@
                                         tonight?
                                         could you stay?)
         </pre>
-        <img class="song_pic" src="">
+        <img class="song_pic" src="https://i.ytimg.com/vi/ksbWpa1ClrE/hqdefault.jpg">
     </div>
     <pre class="tabs">
     chord shapes             B part riff
@@ -494,6 +528,11 @@ window.onload = function() {
         }
         song.innerHTML = text
     }
+
+    for (let pic of document.querySelectorAll(".song_pic")) {
+        pic.style.marginLeft = Math.random() * 30 + "px"
+        pic.style.marginTop = Math.random() * 30 + "px"
+    }
 }
 
 </script>
@@ -508,7 +547,9 @@ window.onload = function() {
     <div class="song_title"></div>
     <div class="brochure">
         <pre class="lyrics"></pre>
-        <img class="song_pic" src="">
+        <div class="flics">
+            <img class="song_pic" src="">
+        </div>
     </div>
     <pre class="tabs">
     e|---------------------------------------------------------------|
