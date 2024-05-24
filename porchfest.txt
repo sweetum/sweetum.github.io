@@ -3,16 +3,21 @@ porchfest! woohoo!!
 covers playlist
 https://open.spotify.com/playlist/2Q3vyEmWNIxJTm0biFjYGL?si=f99a7bfb3eff4ba3&pt=54fae02482fa3bd04f61d5710002b487
 
-setlist:
-the ank
-jury
-nora
-bar love
-drivin' on 9
-the news / you were on my mind this morning
-ballsack
-pinky
-hi beems!
-ginger
-i'm on fire
-slip & slide
+full band setlist:
+    the ank
+    jury
+    nora
+    bar love
+    drivin' on 9
+    the news / you were on my mind this morning
+    ballsack
+    pinky
+    hi beems!
+    ginger
+    i'm on fire
+
+smaller portions setlist (if need time)
+    WRBB 104.9FM Boston
+    slip & slide
+    circus / new baby
+    big decision
