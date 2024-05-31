@@ -4,20 +4,22 @@ covers playlist
 https://open.spotify.com/playlist/2Q3vyEmWNIxJTm0biFjYGL?si=f99a7bfb3eff4ba3&pt=54fae02482fa3bd04f61d5710002b487
 
 full band setlist:
-    the ank
-    jury
-    nora
-    bar love
-    drivin' on 9
-    hips / you were on my mind this morning
-    ballsack
-    pinky
-    hi beems!
-    i'm on fire
+    ANK!
+    Hi Beems!
+    Welcome to Jury Duty, Here's your Lawyer
+    Nora
+    Hips / You Were On My Mind This Morning
+    Ballsack
+    Glory Days
+    10%
+    Drivin' on 9
+    Pinky
+    I'm On Fire
+    Bar Love
 
 smaller portions setlist (if need time)
-    WRBB 104.9FM Boston
     slip & slide
     circus / new baby
     big decision
     margola
+    WRBB 104.9FM Boston
