@@ -2,29 +2,45 @@
 <html>
 <head>
     <style>
-        #links {
+
+        /*
+            LINK STUFF
+        */
+        #top_gun {
             position: fixed;
-            z-index: 5;
+            bottom: 0px;
+            text-align: right;
+            width: 100vw;
+            display: none;
+            flex-flow: column;
+            align-items: flex-end;
+            color: red;
         }
-        #girl {
-            position: fixed;
-            z-index: 0;
+        #top_link {
+            position: relative;
+            flex-wrap: wrap; 
         }
+        #next_top_link {
+            flex-wrap: wrap; 
+            flex-flow: row;
+            position: relative;
+        }
+        #next_top_link > * {
+            margin: 3px;
+        }
+        a {
+            color: inherit;
+        }
+        a:hover {
+            opacity: 0.5;
+            text-shadow: red 5px 5px
+        }
+
+        /*
+            INLINE SONG FORMATTING
+        */
         .chord {
             font-size: 20px;
-        }
-        .brochure {
-            display: flex;
-            flex-flow: row nowrap;
-        }
-        .song_pic {
-            height: 400px;
-            background-color: green;
-        }
-        .song_title {
-            font-size: 40px;
-            transform: rotate(-3deg);
-            color: black;
         }
         .shout {
             font-size: 9px;
@@ -35,42 +51,35 @@
             color: orange;
             text-decoration: underline;
         }
+        
+        /* 
+            PAGE FORMATTING
+        */
+        .brochure {
+            display: flex;
+            flex-flow: row nowrap;
+            font-size: 13px;
+        }
+        .song_title {
+            font-size: 40px;
+            transform: rotate(-3deg);
+        }
+
+        /*
+            IMAGES
+        */
+        .song_pic {
+            background-color: green;
+        }
         .flics {
             display: flex;
             flex-flow: column;
             justify-content: flex-start;
         }
-        .lyrics {
-            font-size: 13px;
-        }
-        .song_pic {
-            height: auto;
-        }
-        #top_gun {
-            position: fixed;
-            bottom: 0px;
-            text-align: right;
-            width: 100vw;
-            display: none;
-            flex-flow: column;
-            align-items: flex-end;
-        }
-        #top_link {
-            position: relative;
-            z-index: 2;
-            color: red;
-            flex-wrap: wrap; 
-        }
-        #next_top_link {
-            color: red;
-            flex-wrap: wrap; 
-            flex-flow: row;
-            z-index: 5;
-            position: relative;
-        }
-        #next_top_link > * {
-            margin: 3px;
-        }
+
+        /*
+            INDIVIDUAL IMAGE FORMATTING
+        */
         #spiderbee {
             height: 1000px;
             width: auto;
@@ -78,12 +87,13 @@
         #bessie {
             width: 300px;
         }
-        a {
-            color: inherit;
-        }
-        a:hover {
-            opacity: 0.5;
-            text-shadow: red 5px 5px
+
+        /*
+            MISC
+        */
+        #girl {
+            position: fixed;
+            z-index: 0;
         }
         #songz {
             display: none;
@@ -102,14 +112,14 @@
 <div id="top_gun">
 
     <div id="top_link">
-        <a href="./baked_in_the_hole.txt">OUR SHOWS: </a>
-        <a href="./porchfest.txt">porchfest</a>
-        <a href="./baked_in_the_hole.txt">baked_in_the_hole</a>
+        <a href="./baked_in_the_hole.txt" target="_blank">OUR SHOWS: </a>
+        <a href="./porchfest.txt" target="_blank">porchfest</a>
+        <a href="./baked_in_the_hole.txt" target="_blank">baked_in_the_hole</a>
         <!--<a href="./friendship_is_real/love.html">friendship is real</a>-->
     </div>
     <div id="next_top_link">
-        <a href="./baked_in_the_hole.txt">OUR SONGS: </a>
-        <a href="./baked_in_the_hole.txt">baked_in_the_hole</a>
+        <a href="./baked_in_the_hole.txt" target="_blank">OUR SONGS: </a>
+        <a href="./baked_in_the_hole.txt" target="_blank">baked_in_the_hole</a>
     </div>
 </div>
 
@@ -217,23 +227,30 @@
     
     ++
 
-    [E] [Fm/A] [E]
-                    Three cheers for the body!
+    (drum fills during words)
 
     [E] [Fm/A] [E]
-                    (no love for the mind..)
+                    Three cheers for the body! (woo!)
+
+    [E] [Fm/A] [E]
+                    no love for the mind.. (awww. . .)
 
     [Fm/A] [G#m/A] [Fm/A]
-                    Two drinks for the lovers!
+                    Two drinks for the lovers! (clap clap)
 
     [E] [Fm/A] [E]
                     First session went fine. . . 
+                                      (happy halloween!)
 
     [B] [A]
     but that's all that i can hope for!
     and i hope it's not too late!
     for that sinking feeling. . .
     that sinking feeling to dissapate, okay!
+
+    ++
+
+    instrumental crazies for one more round around to end on last hit
     
 </pre>
         <div class="flics">
@@ -480,8 +497,6 @@
                         [C]       [Cmaj7]  
     they move their feet faster
 
-    (repeated a lot. everyone sing)
-
     ++
 
             [F]
@@ -523,8 +538,28 @@
                                         why are you leaving tonight?
                                         tonight?
                                         could you stay?)
+    
+    ++
+
+    
+    [F]
+    so we dance while we can, and if we can,
+                    [C]       [Cmaj7]   
+    we move our feet faster
+
+    [F]
+    as we dance while we can, and the babes,
+                        [C]       [Cmaj7]  
+    they move their feet faster
+
+    (everyone sing!)
+
         </pre>
-        <img class="song_pic" src="https://i.ytimg.com/vi/ksbWpa1ClrE/hqdefault.jpg">
+        <div class="flics">
+            <img class="song_pic" src="https://i.ytimg.com/vi/ksbWpa1ClrE/hqdefault.jpg">
+            <img class="song_pic" src="https://compote.slate.com/images/96fe4cee-2131-443a-a6f7-39b4d8b50111.jpg?crop=590%2C421%2Cx0%2Cy0">
+            <img class="song_pic" src="https://img.ifunny.co/images/848b00032a46b0a141686a1b6b45384795f9adf7a86778fb87b46283b896c157_1.webp">
+        </div>
     </div>
     <pre class="tabs">
     chord shapes             B part riff
@@ -719,6 +754,7 @@
 
     ++
 
+    <!--
     (in 4/4)
 
     (drum buildup, flamenco strummming)
@@ -743,14 +779,16 @@
     home is a place with some leaves in the gutter
     [D]                [E]                  [A]         [E]
     home looks like a teal background and a peach
+    -->
 
+    (afro beats)
     (drum solo section)
-    (same chords)
-
-    (end with intro chorus)
+    (band intro, murder)
 
         </pre>
-        <img class="song_pic" src="https://i1.sndcdn.com/artworks-xEdA4MvjDQl6kRka-7waVZg-t500x500.jpg">
+        <div class="flics">
+            <img class="song_pic" src="https://i1.sndcdn.com/artworks-xEdA4MvjDQl6kRka-7waVZg-t500x500.jpg">
+        </div>
     </div>
     <pre class="tabs">    
     A part riff:
@@ -792,6 +830,7 @@ Bmin7	        C#min7
     <div class="song_title"><a href="https://drive.google.com/file/d/1IH8Az8-JeIwjCXus4Rpd0sTgqq7A7qsX/view?usp=sharing" target="_blank">ginger</a></div>
     <div class="brochure">
         <pre class="lyrics">
+
             [A]
     in my sleeping hat
             [Bmin7]
@@ -916,7 +955,10 @@ Bmin7	        C#min7
     maybe my love will indite me, maybe it’ll sent me free
     but i just want to go
         </pre>
+        <div class="flics">
         <img class="song_pic" src="https://i.ytimg.com/vi/V3yuto9xjEE/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgUihDMA8=&rs=AOn4CLA50n_pPReYgo-oPii5b-01eSBwkQ">
+        <img class="song_pic" src="https://www.wsfm.com.au/wp-content/uploads/sites/11/2023/11/20231124-fireman-calendar-feature.jpg?crop=0,0,42,100&resize=680,816&quality=75">
+    </div>
     </div>
     <pre class="tabs">
         guitar chord shapes
@@ -951,10 +993,9 @@ Bmin7	        C#min7
 <div class="song" id="slipnslide">
     <div class="song_title">slip & slide</div>
     <div class="brochure">
-        <pre class="lyrics"></pre>
-        <img class="song_pic" src="">
-    </div>
-    <pre class="lyrics">
+        <pre class="lyrics">
+
+
     whole verse follows
     [Gmin7] [Gsus something] [F]
 
@@ -986,8 +1027,10 @@ Bmin7	        C#min7
 
     **
     
-
-    </pre>
+        
+            </pre>        
+        <div class="flics"><img class="song_pic" src=""></div>
+    </div>
     <pre class="notes">
         traingle
     </pre>
@@ -999,6 +1042,8 @@ Bmin7	        C#min7
     <div class="brochure">
         <pre class="lyrics">
 
+            in progress
+            <!--
     [G]
     i don't know why, darling
     i don't know why
@@ -1089,7 +1134,8 @@ Bmin7	        C#min7
 
         
     ++
-
+    -->
+    
     you don't trust me
     and i don't like that
 
@@ -1103,7 +1149,9 @@ Bmin7	        C#min7
 
     
         </pre>
+        <div class="flics">
         <img class="song_pic" id="bessie" src="https://lh3.googleusercontent.com/d/113UJWVfUSxw1L5GRG6rmxQyMcSlHPvaS?authuser=0">
+    </div>
     </div>
     <pre class="tabs">
     e|--3---2---0----------------------------------------------------|
@@ -1276,21 +1324,15 @@ Bmin7	        C#min7
     rounding up the total to 600 dollars, (baby) not a cent more,
     charge it to WRBB one oh four point
     
-    [B]
-    nine
-    [D#m]
-    round it up one oh
-    [A]
-    five
+    [B]   [D#m]              [A]                            [B]   [D#m]              [A]
+    nine! round it up one oh five                           nine! round it up one oh five
     [C#m]
-    one o four point 
-    [B]
-    nine
-    [D#m]
-    round it up one oh
-    [A]
-    five
-    [C#m]
+    one oh four point                 (later iterations:)                (god ain't here)
+    [B]   [D#m]              [A]   [C#m]                    one oh four point 
+    nine! round it up one oh five!                          nine! round it up one oh five!
+                                                                  (go in her!)
+
+
         </pre>
         <div class="flics">
             <img class="song_pic" src="">
@@ -1351,8 +1393,7 @@ Bmin7	        C#min7
 
         </pre>
         <div class="flics">
-            <img class="song_pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM8FL9RHiopejr926k4MiVw8vazgkh2KIzPg&s">
-            <img class="song_pic" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWKgG4RTB4iArcdvELS9aWLqOQuK4jOGvrkg&s">
+            <img class="song_pic" src="https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/08/09/BostonGlobe.com/Metro/Images/AliceErickson08.jpg">
         </div>
     </div>
     <pre>
@@ -1374,6 +1415,8 @@ Bmin7	        C#min7
         hang with all of the sisters from punch drunk love
         the best actors can't have any other job in the world
         all models are wrong, some are sorta useful
+        i was looking for love, i was looking for love
+        i was looking for you, and this is what i found
 
                                                         all together
                                 i need to be killed by a gun so big it takes two guys to lift it
@@ -1398,16 +1441,7 @@ Bmin7	        C#min7
     <pre class="notes">
         drums start slow, revving up, four on the floor hits 
         for the second part
-        ABABA(breakbeats)C
-        
-        
-        and eventually
-        breakbeats once it gets louder
-
-        there is a melody for keys and sax that i can teach
-
-
-
+        breakbeat section        
     </pre>
     <hr/>
 </div>
@@ -1420,10 +1454,11 @@ Bmin7	        C#min7
     [F]
     there's a boy
                         [idk]
-    letting his rat tail grow
+    letting his rattail grow
                             [G]
     and he's holding onto my banjo
 
+    (same chords)
     there's a girl
     setting us all aglow
     she's only thinking about her pillow
@@ -1442,15 +1477,15 @@ Bmin7	        C#min7
     [F]
     there's a boy
                         [idk]
-    watching an airplane tow
+    watching the airplanes go
                                     [G]
-    holding hands with his deaf-mute uncle
+    holding hands with his shaky uncle
                                     (in a minute, it'll go, but you gotta stick around
                                     'cause i've seen this one before, and it tends to start slow)
 
     there's a girl
     with a scar on her right elbow
-    locking eyes with a four-foot fellow
+    locking eyes with a fascinating fellow
                                     ('scusi, miss, but i saw you on the train and i think you should
                                     know, that you've got the most beautiful shins)
 
@@ -1468,7 +1503,7 @@ Bmin7	        C#min7
 
         </pre>
         <div class="flics">
-            <img class="song_pic" src="">
+            <img class="song_pic" src="https://scontent-lga3-1.xx.fbcdn.net/v/t1.6435-9/90631955_10158061824713158_5690115678971887616_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0327a3&_nc_ohc=5UyZzA7wyJsQ7kNvgH5BLC6&_nc_ht=scontent-lga3-1.xx&oh=00_AYBE2YSJpNEIvPEEa5whHQR-vI4e4UTJqC_hPP2dAKdzEw&oe=66AFA183">
         </div>
     </div>
     <pre class="tabs">
@@ -1576,7 +1611,7 @@ Bmin7	        C#min7
 
         </pre>
         <div class="flics">
-            <img class="song_pic" src="">
+            <img class="song_pic" src="https://media.licdn.com/dms/image/D4E16AQGnh1mLQ9O49Q/profile-displaybackgroundimage-shrink_350_1400/0/1694569943798?e=1725494400&v=beta&t=MI2KnS1YFS1s3p3swCA4u_oTPE_izrCsgaaOHL6clno">
         </div>
     </div>
     <pre class="tabs">
