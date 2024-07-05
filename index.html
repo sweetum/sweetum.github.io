@@ -47,7 +47,13 @@
             height: auto;
         }
         #top_gun {
-            position: relative;
+            position: fixed;
+            bottom: 0px;
+            text-align: right;
+            width: 100vw;
+            display: none;
+            flex-flow: column;
+            align-items: flex-end;
         }
         #top_link {
             position: relative;
@@ -91,8 +97,9 @@
 </head>
 <body>
 
+<a href="#top_link"><img src="Untitled.png" alt="Girl in a jacket" width="600" id="girl"></a>
+
 <div id="top_gun">
-    <a href="#top_link"><img src="Untitled.png" alt="Girl in a jacket" width="600" id="girl"></a>
 
     <div id="top_link">
         <a href="./baked_in_the_hole.txt">OUR SHOWS: </a>
@@ -978,14 +985,6 @@ Bmin7	        C#min7
     [chorus is some shit]
 
     **
-
-    if i may, a quick sidebar from this rendesvous
-    see, i might as well run us through a little who's who
-    and for the sake of this story,
-    i might as well claim we're all attractive
-
-    the boy, 
-
     
 
     </pre>
@@ -1461,7 +1460,7 @@ Bmin7	        C#min7
     
     it's a wood's hole, it's a deep spring
     it's a box you put your money in
-    or maybe it's just [A NICE TOWN IN NEW JERSEY!]
+    or maybe it's just [BOSTON MASSACHUSETTS!]
 
     ++
 
@@ -1658,6 +1657,7 @@ window.onload = function() {
     }
 
     songz.style.display = "block"
+    document.getElementById("top_gun").style.display = "flex"
 }
 
 </script>
