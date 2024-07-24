@@ -41,13 +41,13 @@
     (in 3/4)
 
     [D]         [A]             
-    you are my favorite type of person
+    you are my favorite kind of person
     [D]        [E]  [A]
     you might be my favorite person
     [D]         [A]             
-    you are my favorite kind(a) person
+    you are my favorite kinda person
     [D]        [E]      [A]           [E]
-    you might be my favorite person
+    you might be my angel person
 
     ++
 
@@ -55,7 +55,7 @@
     (in 4/4)
 
     (drum buildup, flamenco strummming)
-    as it happens to be, i'd rather like you
+    if it's up to me, i'd rather like you
     because it's easy. and it's nice. and you're cute!
     there's a knock on your door
     you should answer it
@@ -70,12 +70,18 @@
     home is a place where we live forever
     [D]                [E]                  [A]
     home is probably relatively close to the beach
+
+    [crazy chord climb]
+
     [D]
     home is a place with with a lady made of leather
     [A]
     home is a place with some leaves in the gutter
     [D]                [E]                  [A]         [E]
     home looks like a teal background and a peach
+
+    [caleb solo]
+
     -->
 
     (afro beats)
