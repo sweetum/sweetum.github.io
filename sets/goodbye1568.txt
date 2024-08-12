@@ -1,8 +1,64 @@
 BOOM!
 
-        jury    bar love    angel hair  the ank     pinky       hips    in the mood
-archie  guitar  guitar      guitar      guitar      mandolin    guitar  percussion/conduct
-jon     sax     bass        sax         guitar      guitar      sax     sax
-taryn   synth   synth       clarynet    keys        keys        keys    keys
-emma    bass    trumpet     trumpet     bass        banjo       bass    trumpet
-caleb   sax     sax         keys        sax         sax         sax     sax
+setlist
+hips intro
+jury
+ank!
+angel hair
+pinky
+bar love
+end of hips
+in the mood
+
+archie
+        hips intro - electric guitar
+        jury - electric guitar
+        ank! - electric guitar
+        angel hair - acoustic guitar
+        pinky - mandolin
+        bar love - acoustic guitar
+        end of hips - electric guitar
+        in the mood - bass
+
+jon
+        hips intro - sax 2
+        jury - sax 2
+        ank! - acoustic guitar
+        angel hair - sax
+        pinky - acoustic guitar
+        bar love - sax
+        end of hips - acoustic guitar
+        in the mood - sax
+
+taryn
+        hips intro - keys
+        jury - synth
+        ank! - keys
+        angel hair - clarynet
+        pinky - keys
+        bar love - keys
+        end of hips - keys
+        in the mood - keys
+
+emma
+        hips intro - bass
+        jury - bass
+        ank! - bass
+        angel hair - trumpet
+        pinky - banjo
+        bar love - trumpet
+        end of hips - bass
+        in the mood - trumpet
+
+caleb
+        hips intro - sax
+        jury - sax
+        ank! - sax
+        angel hair - keys/percussion
+        pinky - sax
+        bar love - sax
+        end of hips - sax
+        in the mood - sax
+
+q
+        drums
