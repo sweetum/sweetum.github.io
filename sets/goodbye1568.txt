@@ -1,63 +1,57 @@
 BOOM!
 
 setlist
-hips intro
+angel hair
 jury
 ank!
-angel hair
 pinky
 bar love
-end of hips
+hips
 in the mood
 
 archie
-        hips intro - electric guitar
+        angel hair - acoustic guitar
         jury - electric guitar
         ank! - electric guitar
-        angel hair - acoustic guitar
         pinky - mandolin
         bar love - acoustic guitar
-        end of hips - electric guitar
+        hips - electric guitar
         in the mood - bass
 
 jon
-        hips intro - sax 2
+        angel hair - sax
         jury - sax 2
         ank! - acoustic guitar
-        angel hair - sax
         pinky - acoustic guitar
         bar love - sax
-        end of hips - acoustic guitar
+        hips - sax 2
         in the mood - sax
 
 taryn
-        hips intro - keys
+        angel hair - clarynet
         jury - synth
         ank! - keys
-        angel hair - clarynet
         pinky - keys
         bar love - keys
-        end of hips - keys
+        hips - keys
         in the mood - keys
 
 emma
-        hips intro - bass
+        angel hair - trumpet
         jury - bass
         ank! - bass
-        angel hair - trumpet
         pinky - banjo
         bar love - trumpet
-        end of hips - bass
+        hips - bass
         in the mood - trumpet
 
 caleb
-        hips intro - sax
+        angel hair - keys/percussion
         jury - sax
         ank! - sax
-        angel hair - keys/percussion
         pinky - sax
         bar love - sax
-        end of hips - sax
+        hips - sax
         in the mood - sax
 
 q
