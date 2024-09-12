@@ -2,7 +2,20 @@
 <html>
     <head>
         <style>* {
-            margin: 0px; padding: 0;} body { margin: 5px;}</style>
+            margin: 0px; padding: 0;} body { margin: 5px;}
+            #split {
+                display: flex;
+                flex-flow: row nowrap;
+            }
+            #split >div  {
+                display:flex;
+                flex-flow: column;
+                margin-left: 20px;
+            }
+            #left {
+                width: 30vw;
+            }
+            </style>
     </head>
     <body>
         sweetumsofthebody@gmail.com / 9173317035
@@ -11,39 +24,45 @@
         <p>we have no songs out, here are some bootlegs! </p>
         <br/>
         <hr/>
+        <br/>
 
-
-        <a href="./songs/jury.txt" target="_blank">welcome to jury duty, here's your lawyer</a>
-        <br/>
-        <audio src="./files/jury.mp3" controls="true"></audio>
-        <br/>
-        <i>emma's guitar strap fell off at 0:10 WHOOPS!</i>
-        <br/>
-        <br/>
+        <div id="split">
+        <div id="left">
+        <a href="./songs/hips.txt" target="_blank">hips</a>
+        <audio src="./files/hips_site.mp3" controls="true"></audio>
+        <i>go jon go! wooooo!</i>
         <hr/>
+        <br/>
 
         <a href="./songs/ballsack.txt" target="_blank">ballsack (suite)</a>
-        <br/>
         <audio src="./files/ballsack.m4a" controls="true"></audio>
-        <br/>
         <i>in middle school, a boy with the last name Bloom <br/>convinced me he had three nuts in his sack.</i>
-        <br/>
-        <br/>
         <hr/>
-
+        <br/>
         <a href="./songs/angelhair.txt" target="_blank">angel hair</a>
-        <br/>
         <audio src="./files/angelhair.mp3" controls="true"></audio>
-        <br/>
         <i>archie involuntarily lets out a satisfied moan at the<br/>
         end of the first horn arrangement. weird!</i>
         <br/>
-        <br/>
-        <hr/>
+        <img src="Untitled.png" height="500" width="700">
+
+        </div>
+        <div id="right">
+            <span>junk <a href="./songs/jury.txt">jury</a></span>
+            <iframe height="200" src="https://www.youtube.com/embed/weh0010kt4s?si=XW_bI_WywNLU8C_b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <span>alley <a href="./songs/ank.txt">ank</a></span>
+            <iframe height="200" src="https://www.youtube.com/embed/0v4LyD4fkbg?si=hq3kYZPfejJaJv8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-        <img src="https://i.imgur.com/E2VCasR.jpeg" height="1000">
-        <br/>
+
+        </div>
+        
+        <div id="more">
+            <img src="https://i.imgur.com/E2VCasR.jpeg" height="1000">
+        </div>
+
+    </div>
+    <hr/>
         
     </body>
 </html>
