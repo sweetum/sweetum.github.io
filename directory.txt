@@ -1,0 +1,35 @@
+sweetum.github.io
+    /index.html
+        lyrics, chords, etc
+
+    /all_sweetums_songs.txt
+        all sweetums songs listed. 
+        separated by if we've played them all together yet
+
+    /hello_world.html
+        selected youtube clips and audio files + contact info
+        send to people who ask about the band!
+    
+    /practice_notes/{YYYY-MM-DD}.txt
+        practice notes for the specified formatted date
+
+                            FUN 
+                              ZONE
+
+    /archie_stupid_songs.txt
+        archie songs that are deemed not good enough for sweetums or flag day
+
+    /Untitled.png
+        sweetums calligraphy logo
+    
+    /README.md
+        our mission statement
+
+    /flagday.txt
+        the lyrics to every Flag Day song archie has written
+    
+    /songs/{song_name}.txt
+        raw lyrics & chords
+
+    /cool_websites.txt
+        a list of cool websites i find

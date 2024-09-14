@@ -1,1 +1,1 @@
-sweetums is a band named after a strange dog named after a considerate muppet
+sweetums is an intrepid band named after a strange dog named after a considerate muppet
