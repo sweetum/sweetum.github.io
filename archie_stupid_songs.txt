@@ -90,7 +90,7 @@ Margola
     [C] [F] [C] [F] [C] [F] [C] [Am] (country boy timing)
             x2 to close
 
-Actual Stomp
+Dirty Dish Rag / Actual Stomp
     G
     G
     G
@@ -109,3 +109,5 @@ Actual Stomp
     Dmin
     G
     Dmin    C   A
+
+Arf Arf!
