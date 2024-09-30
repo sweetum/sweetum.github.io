@@ -3,14 +3,14 @@ import os
 def create_directory(directory, caption):
     # Create an index.html file
     with open(os.path.join(directory, 'index.html'), 'w') as f:
-        f.write('<html><body><h3>' + caption + '</h3><ul>')
+        f.write('<html><body><h3>' + caption + '</h3><ol>')
         
         # Loop through files in the directory and add them as list items
         for filename in sorted(os.listdir(directory)):
             if filename.endswith('.txt'):
                 f.write(f'<li><a target="_blank" href="{filename}">{filename}</a></li>')
 
-        f.write('</ul></body></html>')
+        f.write('</ol></body></html>')
 
     print('index.html generated.')
 
