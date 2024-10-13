@@ -13,18 +13,13 @@ emma
 sneha
 
 setlist: 50min
-    folky  
-        margola / cannon - 6min
-        pinky - 3min
-        nora - 7min
-    rocky
-        Jury - 2min
-        Ballsack - 10min
-        TNOL - 5min
-        Hips - 6min
-        Bar Love - 5min
-    extra time?
-        angel hair - 6min
-        ank - 5min
-
-    total: about one hour
+    margola / cannon
+    pinky
+    nora
+    jury
+    ballsack
+    TNOL
+    hips
+    bar love
+    angel hair
+    ank
