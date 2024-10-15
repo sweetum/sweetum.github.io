@@ -5,6 +5,8 @@
     
     intro:
 
+    optional jam intro
+
     [B] [A] x8   [E] x 4
 
     ++
@@ -33,7 +35,7 @@
         [A]                                        [Am]
     a plaid skirt smothered your eyelids, and you came
                             [E]
-    an arm’s length from heaven
+    a wristband from heaven
 
     ++
 
@@ -98,9 +100,16 @@
         [B]                                                    [A]
     i'm still in this fucking shirt, but the tips are running dry    (lemme see it, lemme see it lemme see it now)
 
-    ++ 
+    ++
 
-        [E] x3 [AAA] [BBB]
-        [E] x3 [AAA] [BBB] [E]
+    is this all there is? etc
+
+    [E B F#m A]
+    [E A B A]
+    and i said, is this all there is?
+                                (no!)
+
+
 
     ~
+
