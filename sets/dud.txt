@@ -10,7 +10,7 @@ sax, sax, trumpet - mic 1 into PA
 fiddle - DI into PA
 cello - DI into PA
 keys/synth - DI into PA
-bass - amp if we can get it
+bass - amp 
 guitar - jonah amp
 
 setlist:
