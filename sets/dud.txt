@@ -14,14 +14,24 @@ bass - amp
 guitar - jonah amp
 
 setlist:
-    margola / cannon
+0                                           min mark
+    ballsack up to sig switch - soundcheck
+2.5
     jury
-    first half of ballsack
-    first half of TNOL
-    hips
-    pinky
-    bar love
-    angel hair
+5
     ank
-    nora
-
+10.5
+    TNOL
+16
+    hips
+22
+    bar love
+28
+    angel hair
+35
+    Nora
+43
+    margola / cannon
+48
+    pinky
+51                                          done
