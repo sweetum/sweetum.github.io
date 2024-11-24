@@ -16,9 +16,3 @@
     Dmin
     G
     Dmin    C   A
-
-    after a few -- 
-    c -> d -> some fucked up chord transitions into
-
-    G   C   D   C
-    like in winkler mexico
