@@ -15,10 +15,7 @@ sweetum.github.io
 
                             FUN 
                               ZONE
-
-    /archie_stupid_songs.txt
-        archie songs that are deemed not good enough for sweetums or flag day
-
+                              
     /Untitled.png
         sweetums calligraphy logo
     
