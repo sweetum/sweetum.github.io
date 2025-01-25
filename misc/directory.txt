@@ -1,21 +1,29 @@
 sweetum.github.io
     /index.html
-        lyrics, chords, etc
+        lyrics, chords, hips etc
 
     /all_sweetums_songs.txt
-        all sweetums songs listed. 
-        separated by if we've played them all together yet
+        all sweetums songs at various stages
 
     /hello_world.html
         selected youtube clips and audio files + contact info
         send to people who ask about the band!
     
-    /practice_notes/{YYYY-MM-DD}.txt
-        practice notes for the specified formatted date
+    /practice_notes
+        link list to each sweetums practice notes .txt file
 
-                            FUN 
-                              ZONE
-                              
+    /songs/
+        link list to each sweetums song .txt file
+
+    /sets
+        link list to each sweetums set plan in .txt file
+
+    /flagday
+        link list to each flag day song in .txt file
+
+    /fart.py
+        script to generate the four above pages 
+
     /Untitled.png
         sweetums calligraphy logo
     
@@ -24,9 +32,26 @@ sweetum.github.io
 
     /flagday.txt
         the lyrics to every Flag Day song archie has written
-    
-    /songs/{song_name}.txt
-        raw lyrics & chords
 
-    /cool_websites.txt
-        a list of cool websites i find
+    /misc
+
+        /cool_websites.txt
+            a list of cool websites i find
+    
+        /directory.txt
+            wouldn't you like to know?
+
+        /inflow.txt
+            heavy influence songs
+        
+        /thirteen_big_star.html
+            ongoing effort to tab out all four parts to
+            thirteen by big star in a doable way
+    
+        /cds.txt
+            cds i have listened to and sparse thoughts
+        
+        /words.csv
+            words i like. rarely added to as i haven't set it up
+            in a convenient way yet
+        
