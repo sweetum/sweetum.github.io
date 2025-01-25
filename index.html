@@ -321,8 +321,8 @@
         <hr/>
     </div>
 
-    <div class="song" id="when">
-        <div class="song_title"><a class="song_link" href="" target="_blank">When Your</a></div>
+    <div class="song" id="being_scared">
+        <div class="song_title"><a class="song_link" href="" target="_blank">Being Scared</a></div>
         <div class="brochure">
             <pre class="lyrics"></pre>
             <div class="flics">
@@ -477,6 +477,7 @@ window.onload = function() {
     for(song of songs) {
         fetchSong(song).then((love) => {
             song = love["foo"]
+            song.querySelector('.song_title').querySelector('.song_link').setAttribute('href', '/songs/' + song.getAttribute("id") + '.txt')
             song.querySelector(".brochure").querySelector(".lyrics").innerHTML = formatText(love["bar"])
             show_songs.push(song)
             foo = document.createElement("a")
