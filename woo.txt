@@ -7,7 +7,7 @@ album 1 -
     bar love
     ballsack
 
-album 2 - ( once kel is in town )
+album 2 ( once kel is in town ) - 
     nora
     D.O.G
     dirty dish rag
@@ -16,15 +16,16 @@ album 2 - ( once kel is in town )
     pinky
 
 ep - sweetums and friends
-    big decision / that sick feeling
-    rabbit embargo
+    big decision / that sick feeling (alex klint)
+    rabbit embargo (ruby sigmund)
+    home 2 (ruby sigmund)
 
 album 3 - almost to jazz
     30/30
-    the name of love
-    the news!
     hi beems
+    the name of love
     stream
+    the news!
     massachusetts 2
     HIPS!
 
@@ -33,7 +34,8 @@ album 4 - almost too jazz
     The Killing
     new baby
     slip n' slide
-    spencer trian
+    spencer train
+    polka dots and moonbeams
     bared
 
 solo guitar
