@@ -1,4 +1,4 @@
-album 1 - 
+album 1 
     jury
     margola / cannon
     angel hair
@@ -7,20 +7,20 @@ album 1 -
     bar love
     ballsack
 
-album 2 ( once kel is in town ) - 
+kel album
     nora
     D.O.G
     dirty dish rag
     natasha lyonne goes for a dip in woods hole ma
+    ruthe
     egb
     pinky
 
-ep - sweetums and friends
+sweetums and friends
     big decision / that sick feeling (alex klint)
     rabbit embargo (ruby sigmund)
-    home 2 (ruby sigmund)
 
-album 3 - almost to jazz
+almost to jazz
     30/30
     hi beems
     the name of love
@@ -29,18 +29,14 @@ album 3 - almost to jazz
     massachusetts 2
     HIPS!
 
-album 4 - almost too jazz
+almost too jazz
     S.W.E.E.T.U.M.S
     The Killing
     new baby
+    wynn
     slip n' slide
     spencer train
     polka dots and moonbeams
-    bared
-
-solo guitar
-    ruth
-    wrbb
 
 figure out spencer schedule - first weekend 2/14 - 2/17
 
