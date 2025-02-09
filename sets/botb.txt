@@ -7,8 +7,16 @@ jury
 margola
 lighter
 bar love
-angel hair
 ruthe
 natasha
 egyptian gold bars
 hips
+rabbit
+
+set:
+jury - 2min
+hackensack - 4min
+lighter - 6min
+hips - 14min
+rabbit - 5min
+margola - 4min
