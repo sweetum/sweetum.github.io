@@ -9,3 +9,35 @@ lineup
     margot
 
 location - new edgerly plaza at symphony
+
+$37.50 per person - hour set
+
+setlist
+    acoustic
+        nora
+        pinky
+        egb
+        free sick
+        investors (archie)
+
+    electric
+        hackensack
+        jury
+        phoenix
+        ballsack up until 3/4
+        lighter
+        angel hair
+        ruthe
+        rabbit wolf
+        margola
+        hips
+        ank
+        natasha
+        bar love
+
+highest priority:
+    angel hair
+    rabbit wolf
+    phoenix landing
+    natasha
+    bar love
