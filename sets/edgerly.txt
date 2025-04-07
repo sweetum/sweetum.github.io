@@ -12,27 +12,28 @@ location - new edgerly plaza at symphony
 
 $37.50 per person - hour set
 
-setlist
+setlist ideas : let's shoot to tally to an hour, let me know which you would want to cut
+
     acoustic
-        nora
-        pinky
-        egb
-        free sick
-        investors (archie)
+        pinky - 3min
+        free sick - 3min
+        investors - 5min
 
     electric
-        hackensack ( cover )
-        sleepwalkin ( cover )
-        jury
-        phoenix landing
-        ballsack up until 3/4 part
-        lighter
-        angel hair
-        ruthe
-        rabbit wolf
-        margola
-        hips
-        ank
-        natasha
-        bar love
-        everything happens to me
+        egb - 5min
+        nora - 6min
+        hackensack - 3min
+        sleepwalkin - 3min
+        jury - 2min
+        phoenix landing - 8min
+        ballsack up until 3/4 part - 3min
+        lighter - 6min
+        angel hair - 6min
+        ruthe - 3min
+        rabbit wolf - 6min
+        margola - 6min
+        hips - 15min
+        ank - 6min
+        natasha - 5min
+        bar love - 6min
+        everything happens to me - 6min
