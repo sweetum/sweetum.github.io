@@ -21,10 +21,11 @@ setlist
         investors (archie)
 
     electric
-        hackensack
+        hackensack ( cover )
+        sleepwalkin ( cover )
         jury
-        phoenix
-        ballsack up until 3/4
+        phoenix landing
+        ballsack up until 3/4 part
         lighter
         angel hair
         ruthe
@@ -34,10 +35,3 @@ setlist
         ank
         natasha
         bar love
-
-highest priority:
-    angel hair
-    rabbit wolf
-    phoenix landing
-    natasha
-    bar love
