@@ -88,7 +88,7 @@ window.onload = function() {
                     <div class="brochure">
                         <pre class="lyrics">
                         
-${formatText(song_content)}</pre>
+                        ${formatText(song_content)}</pre>
                         <div class="flics">
                             ${images}
                         </div>

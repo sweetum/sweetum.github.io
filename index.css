@@ -1,0 +1,107 @@
+
+        /*
+            LINK STUFF
+        */
+        #top_gun {
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+            text-align: right;
+            width: 60vw;
+            display: none;
+            flex-flow: column;
+            align-items: flex-end;
+            color: red;
+        }
+        #top_link {
+            position: relative;
+            flex-wrap: wrap; 
+        }
+        #next_top_link {
+            flex-wrap: wrap; 
+            flex-flow: row;
+            position: relative;
+        }
+        #next_top_link > * {
+            margin: 3px;
+        }
+        a {
+            color: inherit;
+        }
+        a:hover {
+            opacity: 0.5;
+            text-shadow: red 5px 5px
+        }
+
+        /*
+            INLINE SONG FORMATTING
+        */
+        .chord {
+            font-size: 20px;
+        }
+        .shout {
+            font-size: 9px;
+        }
+        .NO_FUNERAL {
+            font-size: 60px;
+            background-color: red;
+            color: orange;
+            text-decoration: underline;
+        }
+        
+        /* 
+            PAGE FORMATTING
+        */
+        .brochure {
+            display: flex;
+            flex-flow: row nowrap;
+            font-size: 13px;
+        }
+        .song_title {
+            font-size: 40px;
+            transform: rotate(-3deg);
+        }
+
+        /*
+            IMAGES
+        */
+        .song_pic {
+            background-color: green;
+        }
+        .flics {
+            display: flex;
+            flex-flow: column;
+            justify-content: flex-start;
+        }
+
+        /*
+            INDIVIDUAL IMAGE FORMATTING
+        */
+        #spiderbee {
+            height: 1000px;
+            width: auto;
+        }
+        #bessie {
+            width: 300px;
+        }
+
+        /*
+            MISC
+        */
+        #girl {
+            position: fixed;
+            z-index: 0;
+        }
+        #songz {
+            display: none;
+        }
+        #hello {
+            position: fixed;
+            right: 0;
+            top: 0;
+            z-index: 20;
+        }
+        #fish_size_video {
+            width: 100vw;
+            height: 100vh;
+        }
