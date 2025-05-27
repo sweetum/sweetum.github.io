@@ -34,9 +34,6 @@ sweetum.github.io
         the lyrics to every Flag Day song archie has written
 
     /misc
-
-        /cool_websites.txt
-            a list of cool websites i find
     
         /directory.txt
             wouldn't you like to know?
