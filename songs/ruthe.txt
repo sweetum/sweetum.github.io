@@ -55,6 +55,31 @@ IMG https://www.wikihow.com/images/thumb/d/d8/Play-Pitch-Step-2-Version-3.jpg/v4
     ole 
     [Em]
     ole
+    
+    [Am]    [Am7]
+    i'm guaranteed to pass
+    [C]
+    through
+    [Dmaj7]
+    oo
+    [G]
+    you
+    [G/F#]
+    a way
+    [Em]
+    a dove
+                    [C]
+    is roothing at a bark
+
+    [G]             [G/F#]
+    a painting of a star
+            [Em]
+    floating by
+                            [C]
+    waiting for the proper lark
+    [G] [C7]
+    blasting ob's at the met
+    like an uninvited scene partner
 
             [G]
     it's a heart
@@ -95,4 +120,7 @@ IMG https://www.wikihow.com/images/thumb/d/d8/Play-Pitch-Step-2-Version-3.jpg/v4
     [G] [C7]
     something PAPA EDDY SAYS
     NEVER PASS UP A TWO BET
-
+ 
+    [Gmaj7 Am7 D7->C7 Gmaj7] x2
+    [Bm7 Am7 Bm7 Am7 Gmaj7]
+    end
