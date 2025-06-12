@@ -1,0 +1,16 @@
+setlist:
+    ruthe
+    ank
+    lighter
+    angel hair
+    egb
+    bar love
+    phoenix landing
+    jury
+
+encore:
+    nora
+    massachusetts 2
+    margola
+    pinky
+    the news!
