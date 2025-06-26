@@ -30,13 +30,6 @@ Sea-Sides
     Margola / Cannon
     Natasha Lyonne / Takes a Dip in Woods Hole, MA
 
-De-cides
-    Corsage
-    Big Dog Movers
-    Annie Other
-    Dirty Dish Rag
-    Kim / WRBB 104.9FM Boston
-
 Tea-sides
     Don't Think Too Hard
     Tickets in the Rain
@@ -46,3 +39,10 @@ Klintums
     Some Things That Have Been Bothering Me Recently
     Lord of the Dance
     Big Decision / TSF
+
+De-cides
+    Corsage
+    Big Dog Movers
+    Annie Other
+    Dirty Dish Rag
+    Kim / WRBB 104.9FM Boston
