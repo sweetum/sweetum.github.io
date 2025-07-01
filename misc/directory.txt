@@ -1,4 +1,4 @@
-sweetum.github.io
+sweetum.org
     /index.html
         lyrics, chords, hips etc
 

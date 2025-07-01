@@ -83,8 +83,8 @@ window.onload = function() {
                 song_title = song_file.split('.txt')[0]
 
                 const parsedDocument = domParser.parseFromString(
-                `<div class="song" id="${song_file.split('.')[0]}">
-                    <div class="song_title"><a class="song_link" href="" target="_blank">${song_meta[0]}</a></div>
+                `<div class="song" id="${song_title}">
+                    <div class="song_title"><a class="song_link" href="${'/songs/' + song_file}" target="_blank">${song_meta[0]}</a></div>
                     <div class="brochure">
                         <pre class="lyrics">
                         
@@ -98,7 +98,7 @@ window.onload = function() {
                 songz.appendChild(parsedDocument.body.firstChild);
 
                 foo = document.createElement("a")
-                foo.setAttribute("href", "#" + song_file.split('.')[0])
+                foo.setAttribute("href", "#" + song_title)
                 foo.innerHTML = song_meta[0]
                 songs_navbar.appendChild(foo)
             })
