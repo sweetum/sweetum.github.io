@@ -44,11 +44,4 @@ sweetum.org
         /thirteen_big_star.html
             ongoing effort to tab out all four parts to
             thirteen by big star in a doable way
-    
-        /cds.txt
-            cds i have listened to and sparse thoughts
-        
-        /words.csv
-            words i like. rarely added to as i haven't set it up
-            in a convenient way yet
         
