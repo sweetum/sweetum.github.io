@@ -1,0 +1,18 @@
+regression ridge
+
+
+
+This is a fiddle tune, with a very quick melody that i'm not going to
+write out right now but maybe i will include a picture of the sheet music later
+
+(A part)
+    [ A   | G   | A   | G  E A |]
+    [ A   | G   | A   | G  E A |]
+
+(B part)
+    [ C   | D G | A   | A      |]
+    [ C   | D G | A   | G  A   |]
+    [ C   | D G | A   | F#m    |]
+    [ Bm  | E   | A   | F#     |]
+    [ B7  | E7  | A E | A E    |]
+
