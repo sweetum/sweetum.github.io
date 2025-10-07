@@ -7,7 +7,6 @@ In lovr w u - album
     Ballsack
     Lighter
     Nora
-    New Baby
     Rabbit Embargo Flywheel
     Angel Hair
     Spiderbee
@@ -28,22 +27,14 @@ In lovr w u - album
     Ruthe
 
 im In lovr w u more - album
-    It's True Because It Happened
-    Margot, Vince, and the Midnight Parade
-    PBL01
     The News! 
-    Lord of the Dance
-    Chi-Chi Fishy Fish
-    Thank You Bill Boles Art and Kim
-    Annie Other
     Tickets in the Rain
     Cats
-    Cannon (demo)
-    Burning
-    When You Are Harassed By Lasers
+    New Baby
+    Chi-Chi Fishy Fish
     Massachusetts 2
 
-Sweet Springs - live bluegrass instrumented album
+Sweet Springs - album
     Doc Weaver
     Roxbury Heights
     Spiderbee
@@ -52,3 +43,11 @@ Sweet Springs - live bluegrass instrumented album
     White Freightliner Blues
     Egyptian Gold Bars
     Dirty Dish Rag
+
+Burning - album
+    It's True Because It Happened
+    Margot, Vince, and the Midnight Parade
+    PBL01
+    Thank You Bill Boles Art and Kim
+    Annie Other
+    When You Are Harassed By LASERs
