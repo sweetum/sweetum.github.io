@@ -13,6 +13,9 @@ In lovr w u - album
     The Killing @ el Palacio de los Capitanes Generales
     Margola
     Telluride
+
+    ~~
+
     D.O.G
     Natasha Lyonne Takes a Dip in Woods Hole, MA
     Everything Happens to Me
@@ -43,11 +46,3 @@ Sweet Springs - album
     White Freightliner Blues
     Egyptian Gold Bars
     Dirty Dish Rag
-
-Burning - album
-    It's True Because It Happened
-    Margot, Vince, and the Midnight Parade
-    PBL01
-    Thank You Bill Boles Art and Kim
-    Annie Other
-    When You Are Harassed By LASERs
