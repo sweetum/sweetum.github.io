@@ -1,13 +1,23 @@
-                                            location
-                                                fire pit out back
+location
+    fire pit out back
 
-                                            songs
-                                                regression ridge
-                                                ank
-                                                spiderbee
-                                                lighter
-                                                egyptian gold bars
-                                                natasha
-                                                bar love
-                                                telluride
-maggie my dog
+planned setlist:
+    regression ridge
+    ank
+    maggie my dog
+    lighter
+    egyptian gold bars
+    natasha
+    bar love
+    telluride
+
+    margola (?)
+
+actual setlist:
+    regression ridge
+    ank
+    egb
+    maggie my dog
+    lighter
+    bar love
+    telluride
