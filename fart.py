@@ -9,7 +9,6 @@ def create_directory(directory, caption):
         f.write('</ol></body></html>')
     print('index.html generated.')
 
-create_directory('./practice_notes', 'practice notes')
 create_directory('./flagday', 'flag day songs')
 create_directory('./misc', 'misc bull shit')
 create_directory('./sets', 'sets')
