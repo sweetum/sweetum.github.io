@@ -74,6 +74,11 @@
             justify-content: flex-start;
         }
 
+        #gack {
+            position: fixed;
+            bottom: 5px;
+        }
+
         /*
             INDIVIDUAL IMAGE FORMATTING
         */
