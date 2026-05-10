@@ -27,11 +27,8 @@ im In lovr w u 2
     Lisp
     The Killing en el Palacio de los Capitanes Generales
     Massachusetts 2
-    Kim
     Natasha Lyonne Takes a Dip in Woods Hole, MA
     Ginger
-    Regression Ridge
-    Q's Reel
     Burning
     When You Are Harassed By LASERs
     It's True Because It Happened
@@ -41,3 +38,7 @@ im In lovr w u 2
     Dirty Dish Rag
     Finish the Job
     Phoenix Landing
+
+Sweet Springs
+    Q's Reel
+    Regression Ridge
