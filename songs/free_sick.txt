@@ -16,15 +16,7 @@ IMG https://i.imgur.com/cLdgQc3.png
 
     [F#]        [E]   [B]       [F#]
     (riff x2)                   (riff x2)
-
-    [Bb]
-    and every night
-    [B]
-    i'll still adore you
-    [Bb]
-    amid the light
-    [B]
-    the sunbeams find you
+    
     [Bb]
     when you hide
                    [B]
@@ -35,19 +27,17 @@ IMG https://i.imgur.com/cLdgQc3.png
     i’ll race next to you
             [Bb]                        [B]
     and if i can't handle every little bit that's on your mind
-    [F#]
-    i'll listen some more
-    (and listen some more)
-    and listen some more
-    (and listen some more)
-
-    'cause you're so smart
-    and i can tell when you can tell
-    that i can tell when you can't tell me
-    that you need me
-
-                [F#]    [F]     [F#]    [F]     [F#]
+    [Bb]
     when you're scared
+    [B]
+    of being alone
+    [Bb]
+    when you're scared
+    [B]
+    of not being alone
+
+    i won't make a sound
+    (riff x2)
 
     [E A D B C#m D#m E7]
 
