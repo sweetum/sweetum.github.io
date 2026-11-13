@@ -1,5 +1,5 @@
 nora
-IMG bessie_https://lh3.googleusercontent.com/d/113UJWVfUSxw1L5GRG6rmxQyMcSlHPvaS?authuser=0
+IMG https://images.squarespace-cdn.com/content/v1/6577618b948f6217cb869806/fe0b87c0-e669-4815-80f6-27228779c83a/Screenshot+2026-07-13+at+07.58.27.png https://lh3.googleusercontent.com/d/113UJWVfUSxw1L5GRG6rmxQyMcSlHPvaS?authuser=0 https://cs-people.bu.edu/sofya/cs332/Complexity-classes-diagram.jpg https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Phutball_jump.svg/250px-Phutball_jump.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail
 
 
     [G]

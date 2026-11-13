@@ -1,6 +1,5 @@
 spiderbee
-IMG spiderbee_https://upload.wikimedia.org/wikipedia/commons/1/1b/Spiderbee.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlknVy6nECWqgdwVY78ysRMlFZWXT3V89CJl2QhRMoZQ&s
-
+IMG https://upload.wikimedia.org/wikipedia/commons/1/1b/Spiderbee.jpg https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKu0PTwTkjrkILuC5C5NTnwawGJODp_qkO7mjQkdhSQg&s 
             [G]                 [B7]       
     (oh,) won't you fix me, fix me
                 [C]                  [G]

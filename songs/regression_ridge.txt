@@ -1,5 +1,5 @@
 regression ridge
-
+IMG https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYzQfk4X7mZnlhsxL2PzAfEOK-hPd5bk9b2qcUSlLTzzhX8sKh_CoxH72a&s=10
 
 
 This is a fiddle tune, with a very quick melody that i'm not going to

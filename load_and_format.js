@@ -33,7 +33,7 @@ window.onload = function() {
 
     async function fetchSong(song) {
             try {
-                const response = await fetch('songs/' + song);
+                const response = await fetch('songs/' + song, { cache: 'no-cache' });
                 const text = await response.text()
                 return text
             } catch (error) {
@@ -43,7 +43,7 @@ window.onload = function() {
     }
 
     async function grab_songs() {
-        const response = await fetch('./songs');
+        const response = await fetch('./songs', { cache: 'no-cache' });
         const text = await response.text()
         const parser = new DOMParser();
         const doc = parser.parseFromString(text, 'text/html');
